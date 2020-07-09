@@ -1,0 +1,4 @@
+dev-env-home
+**/node_modules
+**/.cache
+**/dist

@@ -1,0 +1,15 @@
+{
+  "name": "flowui",
+  "version": "1.0.0",
+  "description": "FlowUI - a UI for Flow Based Programming",
+  "main": "index.html",
+  "author": "andrebq",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "pixi.js": "^5.3.0"
+  }
+}
