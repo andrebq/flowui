@@ -9,7 +9,5 @@
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
   },
-  "dependencies": {
-    "raphael": "^2.3.0"
-  }
+  "dependencies": {}
 }
