@@ -6,4 +6,8 @@ let colors = {
         }
     }
 };
-export { colors };
+
+function svgColor(v) {
+    return "#" + v.toString(16);
+}
+export { svgColor, colors };
